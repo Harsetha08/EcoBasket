@@ -140,6 +140,8 @@ The application’s loading time, widget rendering speed, and memory usage were 
 
 Through systematic testing and debugging, EcoBasket achieved stable performance and a clean, interactive interface. This phase enhanced our understanding of error handling, interface optimization, and quality assurance in frontend mobile app development.
 
+---
+
 ### CONCLUSION AND RESULT
 
 The EcoBasket application successfully fulfills its goal of promoting sustainable shopping habits by helping users manage and track their eco-friendly purchases. Developed using Flutter, the app provides a smooth, responsive, and user-friendly interface for users to browse, add, and organize products efficiently without requiring a backend.
@@ -147,3 +149,11 @@ The EcoBasket application successfully fulfills its goal of promoting sustainabl
 Throughout the development process, features such as product listing, category-based organization, and interactive UI components were implemented and tested to ensure proper functionality and ease of use. The results confirmed that the app performs reliably across various Android devices with quick loading times and seamless navigation.
 
 In conclusion, EcoBasket demonstrates how a mobile application can encourage environmentally conscious consumer behavior through an engaging and efficient design. Future enhancements may include AI-based product recommendations, barcode scanning for eco-ratings, and integration with sustainability databases, further expanding its impact and usefulness.
+
+
+---
+
+#### DEVELOPED BY
+
+Harsetha V
+`Frontend Developer`
